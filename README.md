@@ -1,16 +1,29 @@
-## Hi there 👋
+<div align="center">
+  <img src="./LOGO.png" alt="LOGO" width="400px" />
+  <h1>👋 Hi! I'm MLO</h1>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mlllo&theme=transparent&hide_border=true" alt="mlllo's Streak" />
+</div>
 
-<!--
-**mlllo/mlllo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📋 About me
 
-Here are some ideas to get you started:
+- 📫 How to reach me: **Discord: mlllo**
+- 🌱 I'm currently learning C++
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![mlllo's Stats](https://github-readme-stats.vercel.app/api?username=mlllo&theme=transparent&hide_border=true&show_icons=true)
+
+```java
+class Main {
+
+    public static void main(String[] args) {
+    
+        System.out.println("Hello World!");
+    
+    }
+
+}
+```
+
+### 🧰 Languages
+
+![mlllo's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mlllo&theme=transparent&hide_border=true&layout=pie)
+
