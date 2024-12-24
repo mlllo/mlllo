@@ -1,7 +1,7 @@
 <div align="center">
   <img src="./LOGO.png" alt="LOGO" width="300px" />
   <h1>👋 Hi! I'm MLO</h1>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mlllo&theme=transparent&hide_border=true" alt="mlllo's Streak">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mlllo&theme=transparent&hide_border=true">
 </div>
 
 ### 📋 About me
