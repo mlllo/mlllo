@@ -3,8 +3,7 @@
   <h1>👋 Hi! I'm MLO</h1>
 </div>
 
-![mlllo's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mlllo&theme=transparent&hide_border=true)
-![mlllo's Stats](https://github-readme-stats.vercel.app/api?username=mlllo&theme=transparent&hide_border=true&show_icons=true)
+![mlllo's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mlllo&theme=transparent&hide border=true icons=true)
 
 ### 📋 About me
 
