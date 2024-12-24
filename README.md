@@ -4,6 +4,7 @@
 </div>
 
 ![mlllo's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mlllo&theme=transparent&hide_border=true)
+![mlllo's Stats](https://github-readme-stats.vercel.app/api?username=mlllo&theme=transparent&hide_border=true&show_icons=true)
 
 ### 📋 About me
 
