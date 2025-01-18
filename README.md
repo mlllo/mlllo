@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="![Private picture] (https://raw.githubusercontent.com/mlllo/Files/refs/heads/main/Logo/LOGO.png?token=GHSAT0AAAAAAC4OCDYQOLKSALZKGA6A5YBGZ4LB4JA)" alt="LOGO" width="300px" />
+  <img src="https://raw.githubusercontent.com/mlllo/Files/refs/heads/main/Logo/LOGO.png?token=GHSAT0AAAAAAC4OCDYQOLKSALZKGA6A5YBGZ4LB4JA" alt="LOGO" width="300px" />
   <h1>👋 Hi! I'm MLO</h1>
   
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mlllo&theme=transparent&hide border=true icons=true"/>
